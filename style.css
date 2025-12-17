@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0px;
+    color: white;
+}
+#navbar{
+    height: 60px;
+    background-color: black;
+    
+    
+}
+a{
+    margin-right: 180px;
+    text-decoration: none;
+    text-align: center;
+}
+#logo{
+    color: yellow;
+}
+#btn{
+     background-color: yellow;
+     
+}
+.contentbox{
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    border: 2px solid black;
+}
+#content{
+    height: 700px;
+}
+
+footer{
+    background-color: black;
+    text-align: center;
+}
